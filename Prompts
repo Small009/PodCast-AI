@@ -1,0 +1,59 @@
+Prompts  Usados :microphone:  
+
+Nome do podCast.
+
+#Prompt:
+
+Você é um roteirista de um podcast e vamos criar um podcast voltado para empresários, focado em estudo de caso. 
+Quero 3 sugestão de nomes criativos para podcast de emprendedorismos, deve gerar conexão com os ouvistes.
+
+O podcast vai falar sobre o empresário que teve fracasso e sucesso que aconteceu na jornada.
+
+{Regras}
+
+- Nome deve ser curto e deve ter subtitulo.
+- Nome deve ter conexão com técnologia e inovação.
+
+{Regras negativas}
+
+- Não quero nome comun.
+- Nome não pode ter palavras em inglês
+
+
+_______________________________________________________________________
+
+
+Prompt IMAGEM:
+
+
+[ O que você quer + Configurações da imagem e filtros ]
+
+Estou criando um podcast é preciso que crie uma logo com as informções abaixo.
+
+Crie uma logo com nome {Ponto de Virada}, deve conter as cores preta, azul e amarelo. Deve ser uma imagem limpa. A inovação deve fazer parter da criação dessa logo e deve ser imagem 
+cinematografica.
+
+_______________________________________________________________________
+
+Prompt:
+Você é um roteirista de um podcast e vamos criar um podcast voltado para empresários, focado em estudo de caso o nome é Ponto de Virada -
+Os experimentos, fracassos e acertos que construíram grandes negócios, tem foco em pessoas que desejam empreender.
+
+O formato do roteiro deve ser:
+[Introdução]
+[Curiosidade 1]
+[Curiosidade 2]
+[Finalização]
+
+{Regras}
+- No bloco [introdução] substitua por uma introdução iguais as introduções dos videos do canal ‘Stven Bartlett´ , deve ter Nome Murilo que será apresentador no inicio.
+- No bloco [Curiosidade 1] substitua por curiosidade sobre Elon Musk.
+- No bloco [Curiosidade 2] Substitua soft skill de um empreendedor de sucesso.
+- No bloco [Finalização]  Substitua por uma grande final para gerar desejo para ouvinte empreender.
+- Use termos simples
+- O podcast deve ser ter duração de 2 minutos.
+- O podcast vai ser apresentado somente por 1 pessoa.
+
+{Regras negativas}
+- Não use termos técnicos.
+- Não deve ultrapassar 2 minutos.
